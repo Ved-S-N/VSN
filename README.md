@@ -1,4 +1,4 @@
 # VSN
 This is my first Git Repositary.
 <br>
-Author - Ved Nalavade
+Author - Ved Nalavade(college)
